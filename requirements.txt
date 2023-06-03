@@ -48,8 +48,10 @@ nbconvert==7.4.0
 nbformat==5.9.0
 nest-asyncio==1.5.6
 notebook_shim==0.2.3
+numpy==1.24.3
 overrides==7.3.1
 packaging==23.1
+pandas==2.0.2
 pandocfilters==1.5.0
 parso==0.8.3
 pickleshare==0.7.5
@@ -64,6 +66,7 @@ Pygments==2.15.1
 pyrsistent==0.19.3
 python-dateutil==2.8.2
 python-json-logger==2.0.7
+pytz==2023.3
 pywin32==306
 pywinpty==2.0.10
 PyYAML==6.0
@@ -83,6 +86,7 @@ tomli==2.0.1
 tornado==6.3.2
 traitlets==5.9.0
 typing_extensions==4.6.3
+tzdata==2023.3
 uri-template==1.2.0
 urllib3==2.0.2
 wcwidth==0.2.6
