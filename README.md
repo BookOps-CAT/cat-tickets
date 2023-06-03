@@ -37,6 +37,8 @@ Generate a list of tickets to be selected and export to csv format the following
 + u_admin_url
 + sys_mod_count
 
+Save .csv files in `\src_data` directory. This data in raw form should not be made public.
+
 ## Sampling guidelines
 Some of the questions may require sampling and evaluation of tickets.
 
