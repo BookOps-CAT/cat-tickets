@@ -22,20 +22,25 @@ Analysis of CAT ServiceNow tickets
 ## Exports from ServiceNow
 Generate a list of tickets to be selected and export to csv format the following fields:
 + number
-+ sys_created_on
-+ u_caller
-+ sys_created_by
-+ u_bkop_state
-+ u_subcategory
-+ u_bpl_or_nypl
-+ u_bk_location
-+ location
++ crated
++ caller
++ created_by
++ state (u_bkop_state)
++ category
++ subcategory
++ assigment_group
++ bpl_location
++ nypl_location
++ resolved
 + assigned_to
-+ u_resolved
-+ u_resolved_by
-+ u_close_code
-+ u_admin_url
++ u_bpl_or_nypl
++ mat_source
++ close_code
++ url
++ reassignment_count
++ updates
 + sys_mod_count
++ resolved_by
 
 Save .csv files in `\src_data` directory. This data in raw form should not be made public.
 
