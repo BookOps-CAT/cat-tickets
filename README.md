@@ -1,6 +1,8 @@
 # CAT-tickets
 Analysis of CAT ServiceNow tickets
 
+Jan 19, 2023 - CAT ServiceNow revamp
+
 ## Questions
 + what locations are the most active?
 + who are the most prolific callers?
@@ -43,6 +45,7 @@ Generate a list of tickets to be selected and export to csv format the following
 + resolved_by
 
 Save .csv files in `\src_data` directory. This data in raw form should not be made public.
+If possible merge with archived, historical data starting in 2013.
 
 ## Sampling guidelines
 Some of the questions may require sampling and evaluation of tickets.
