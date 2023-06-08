@@ -15,6 +15,7 @@ Jan 19, 2023 - CAT ServiceNow revamp
 	+ any imbalances between agents' workloads
 
 + what are proprtions of ticket types?
++ what are average resolution times before and after reorganization?
 + how often tickets are miscategorized by callers?
 + how often tickets are not for CAT?
 + how often issue to resolve orginated in other dept. than CAT?
