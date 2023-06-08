@@ -54,3 +54,5 @@ Some of the questions may require sampling and evaluation of tickets.
 Consider:
 + how large the sample should be? consider manual review workload.
 + does it need to be proportional to popularity of the subcategories?
++ consider sampling RL "Other" ticket category. Why so large?
++ investigate how ODC affects number of tickets through a sample
