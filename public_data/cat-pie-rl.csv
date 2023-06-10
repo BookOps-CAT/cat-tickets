@@ -1,25 +1,13 @@
-category,tickets
-Barcode sticker request (Research centers only),18
-Call number question,38
-Duplicate records,14
-"Electronic resource (Overdrive, Cloud Library, Naxos, etc.)",11
-Item attached to wrong bib record,19
-Item record problem,16
-Location code error,1
-OCLC Holdings,1
+subcategory,count
 Other,115
-Research call no. label request (NYPL only),3
-Sierra bib record error,13
-Volume record needed,2
-Barcode sticker request (Research centers only),18
 Call number question,38
-Duplicate records,14
-"Electronic resource (Overdrive, Cloud Library, Naxos, etc.)",11
 Item attached to wrong bib record,19
+Barcode sticker request (Research centers only),18
 Item record problem,16
-Location code error,1
-OCLC Holdings,1
-Other,115
-Research call no. label request (NYPL only),3
+Duplicate records,14
 Sierra bib record error,13
+"Electronic resource (Overdrive, Cloud Library, Naxos, etc.)",11
+Research call no. label request (NYPL only),3
 Volume record needed,2
+OCLC Holdings,1
+Location code error,1

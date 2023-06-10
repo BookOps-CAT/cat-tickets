@@ -1,18 +1,18 @@
-category,tickets
-Barcodes for circulating materials,1
+subcategory,count
+Item not linked,287
 Call number error,249
 Call number question,221
-Duplicate records,8
-E-Resources,1
-"Electronic resource (Overdrive, Cloud Library, Naxos, etc.)",25
-Item attached to wrong bib record,107
-Item not linked,287
 Item record problem,158
+Other,116
+Sierra bib record error,114
+Item attached to wrong bib record,107
+"Electronic resource (Overdrive, Cloud Library, Naxos, etc.)",25
 Location code error,19
 Online Catalog,14
-Other,116
-Research call no. label request (NYPL only),1
-Sierra bib record error,114
-Spine labels,6
 Suggest a purchase - replace missing/damaged copies,10
+Duplicate records,8
+Spine labels,6
 Volume record needed,5
+Barcodes for circulating materials,1
+E-Resources,1
+Research call no. label request (NYPL only),1
