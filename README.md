@@ -4,22 +4,24 @@ Analysis of CAT ServiceNow tickets
 Jan 19, 2023 - CAT ServiceNow revamp
 
 ## Questions
-+ what locations are the most active?
-+ who are the most prolific callers?
-+ what is average number of tickets each year per day/week?
-	+ for each system
-+ how long on average does it take for CAT to resolve the issue (before Jan 19, 2023 and after the revamp)?
-+ what is average agent workload?
++ what locations are the most active? (completed)
++ who are the most prolific callers? (completed)
++ what is average number of tickets each year per day/week? (completed)
+	+ for each system (completed)
++ how long on average does it take for CAT to resolve the issue (before Jan 19, 2023 and after the revamp)? (completed)
++ what is average agent workload? (copmleted)
 	+ each system must be treated separetly
 	+ take into account # of agents at the time (before and after)
 	+ any imbalances between agents' workloads
 
-+ what are proprtions of ticket types?
-+ what are average resolution times before and after reorganization?
-+ how often tickets are miscategorized by callers?
-+ how often tickets are not for CAT?
-+ how often issue to resolve orginated in other dept. than CAT?
++ what are proprtions of ticket types? (completed)
++ what are average resolution times before and after reorganization? (completed)
++ how often tickets are miscategorized by callers? (sample analysis needed)
++ how often tickets are not for CAT? (sample analysis needed)
++ how often issue to resolve orginated in other dept. than CAT? (sample analysis needed)
 + on average how many actions were needed to resolve the ticket?
++ what ticket subcategories are obsolete and could be deleted?
+	+ consider few last years
 
 
 ## Exports from ServiceNow
@@ -55,4 +57,4 @@ Consider:
 + how large the sample should be? consider manual review workload.
 + does it need to be proportional to popularity of the subcategories?
 + consider sampling RL "Other" ticket category. Why so large?
-+ investigate how ODC affects number of tickets through a sample
++ investigate how ODC affects number of tickets through a sample (consider for the next analysis?)
