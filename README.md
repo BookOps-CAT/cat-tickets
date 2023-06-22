@@ -55,6 +55,23 @@ Some of the questions may require sampling and evaluation of tickets.
 
 Consider:
 + how large the sample should be? consider manual review workload.
+	+ use [sample size calculator](https://www.calculator.net/sample-size-calculator.html)
+	+ last year data (do we need more?)
 + does it need to be proportional to popularity of the subcategories?
 + consider sampling RL "Other" ticket category. Why so large?
 + investigate how ODC affects number of tickets through a sample (consider for the next analysis?)
++ samples:
+	+ RL Other category
+	+ Circ item problems: item not linked, item record problem, item attached to wrong bib, location code error
+		+ who's fault (origin)
+		+ any patterns that could be used for training?
+	+ Circ bib problems: call number error, call number question, call number missing, sierra bib record error, duplicate records, other(?)
+		+ who's fault: vendor, in-house staff, in-house bots
+		+ any patterns that should be address through training? Will requried detailed tags.
+	+ examine nature of the Circ "Call number questions" tickets
+	+ examine electronic resource tickets
+		+ what vendor (Ovedrive, Naxos, etc.)
+		+ nature of the problems
+		
+
+
